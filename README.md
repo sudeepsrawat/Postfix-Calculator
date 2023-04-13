@@ -29,7 +29,7 @@ The calculator currently supports the following operations:
 The calculator currently only supports single digit integers. Use it with caution.  
 
 # Future improvements
-Support for floating point numbers and numbers greater than single digits.  
-Additional operations, such as exponentiation and square roots.  
+* Support for floating point numbers and numbers greater than single digits.  
+* Additional operations, such as exponentiation and square roots.  
 
 
